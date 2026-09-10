@@ -235,3 +235,6 @@ This repository serves as the official landing page for Garmin Express. The soft
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Garmin Express today!**
+
+---
+**Last updated:** 2026-09-10 00:41:21 UTC
